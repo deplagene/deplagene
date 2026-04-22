@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="800"/>
-</div>
-
-###
-
 <div id="badges" align="center">
     <a href="https://t.me/deplagene">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
